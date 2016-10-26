@@ -13,7 +13,6 @@
  */
 ?>
 
-<!-- This file should primarily consist of HTML with a little bit of PHP. -->
 <div class="wrap">
     <h2>Ultimate Member - Constant Contact</h2>
     <h3>Registration Page</h3>
