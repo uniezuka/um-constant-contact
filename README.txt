@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Wordpress plugin thats integrate Constant Contact to Ultimate Member
+Creates a contact to a Constant Contact list after a successful registration using the Ultimate Member's Register page.
 
 == Installation ==
 

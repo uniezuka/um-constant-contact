@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Ultimate Member - Constant Contact Add on
  * Plugin URI:        NA
- * Description:       Integrates Constant Contact Newsletter 7 to Ultimate Member
+ * Description:       Creates a contact to a Constant Contact list after a successful registration using the Ultimate Member's Register page.
  * Version:           1.0.0
  * Author:            Junie Lorenzo
  * Author URI:        NA
